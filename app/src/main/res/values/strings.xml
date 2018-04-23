@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Transporter</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="createAccount">Create New Account</string>
+    <string name="forgotPassword">Forgot Your Password?</string>
+    <string name="email">Email</string>
+    <string name="show_pwd">Show Password</string>
+    <string name="resetMessage">A Message Was Sent Successfully to your Email Address</string>
+    <string name="addedSuccessfully">Added Successfully :)</string>
+    <string name="reset">Reset</string>
+    <string name="tap">Tap here to save</string>
+    <string name="banner_ad_unit_id">ca-app-pub-1037290028260165/6977525139</string>
+    <string name="banner_ad_unit_id2">ca-app-pub-1037290028260165/5617972313</string>
+    <string name="banner_ad_unit_id3">ca-app-pub-1037290028260165/1483286180</string>
+    <string name="banner_ad_unit_id4">ca-app-pub-1037290028260165/8517977132</string>
+    <string name="fullAd" >ca-app-pub-1037290028260165/8005775581</string>
+    <string name="sentAgain">Your Email Not Verified, We Sent New Verification Email</string>
+    <string name="fullService">For full service please allow us to draw over apps</string>
+    <string name="appID">ca-app-pub-1037290028260165~1361649648</string>
+    <string name="plsLog">Please Login.</string>
+    <string name="send">Sending..</string>
+    <string name="logout">Sign out</string>
+    <string name="testTest">AaZz</string>
+    <string name="copied">Copied, Long Press To Delete</string>
+    <string name="delete">Are you sure to delete?</string>
+</resources>
